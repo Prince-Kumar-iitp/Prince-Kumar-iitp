@@ -1,79 +1,123 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">B.Tech | AI & Data Science | IIT Patna</h3>
+
+<h3 align="center">
+B.Tech in Artificial Intelligence & Data Science <br/>
+Indian Institute of Technology, Patna 🇮🇳
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Undergraduate;Competitive+Programmer;Python+%7C+C%2B%2B+%7C+Machine+Learning;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Undergraduate+@+IIT+Patna;Machine+Learning+%7C+Data+Science+%7C+Algorithms;Competitive+Programming+%7C+Applied+Mathematics;Always+Learning%2C+Always+Building">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍🎓 About Me
 
-- 🎓 **B.Tech in Artificial Intelligence & Data Science** at **IIT Patna**
-- 💻 Interested in **Machine Learning, Data Science, and Algorithms**
-- 📊 Exploring **Statistics, Probability, and Optimization**
-- 🧠 Strong interest in **Problem Solving & Competitive Programming**
-- 🚀 Currently learning **Python, ML, and Advanced Algorithms**
-- 🌱 Believer in *consistent growth & clean code*
+I am a **B.Tech undergraduate in Artificial Intelligence & Data Science at IIT Patna** with a strong foundation in **algorithms, machine learning, and applied mathematics**.  
+I enjoy solving **theoretically grounded problems** and converting them into **practical, efficient solutions**.
+
+- 🎓 **IIT Patna (2024 – 2028)** | CGPA: **7.38**
+- 💡 Interests: **Machine Learning, Data Science, AI, Algorithms**
+- 🧠 Strong inclination towards **problem-solving & mathematical reasoning**
+- 🚀 Actively improving **coding, ML, and system-level understanding**
+- 🤝 Involved in **leadership & student-driven initiatives**
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Key Coursework
+
+- Data Structures & Algorithms  
+- Database Management Systems (DBMS)  
+- Machine Learning  
+- Artificial Intelligence  
+- Deep Learning  
+- Web Services  
+
+---
+
+## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-### 📊 Data Science & ML
+### 📊 AI / Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-### ⚙️ Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 🌐 Web & Databases
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & OS
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-FE7A16?style=flat&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 
 ---
 
-## 📌 Areas of Interest
+## 🏅 Achievements
 
-- Machine Learning & AI  
-- Data Analysis & Visualization  
-- Algorithms & Data Structures  
-- Graph Theory & Optimization  
-- Applied Mathematics for AI  
+- 🥇 **State Rank 1**, Bihar Mathematics Olympiad (BMO 2021)
+- 📘 **Qualified IOQJS’21**, among top 10% students (State-wise)
+- 🧮 **Appeared for INMO 2020** (Indian National Mathematics Olympiad)
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
+
+- **Machine Learning Specialization** — Stanford Online  
+- **Deep Learning Specialization** — DeepLearning.AI  
+
+---
+
+## 🏛️ Positions of Responsibility
+
+- **Manager**, Entrepreneurship Cell, IIT Patna *(Apr 2025 – Present)*
+- **Executive**, Entrepreneurship Cell, IIT Patna *(Jan 2025 – Apr 2025)*
+- **Organising Committee Member**, Inter-IIT Cultural Meet 7.0 *(Dec 2024)*
+- **Core Team Member**, Syahi (Literary Club), IIT Patna *(Mar 2025 – Nov 2025)*
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Kumar-iitp&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Kumar-iitp&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Kumar-iitp&layout=compact&theme=tokyonight" />
-</p>
+---
+
+## 🎯 Beyond Tech
+
+- 🏓 Sports: Table Tennis, Football, Basketball  
+- 📚 Reading: Philosophy, Research-based & Non-fiction books  
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *Add your LinkedIn link*
-- 📧 Email: *Add your professional email*
-- 🌐 Portfolio: *Optional*
+- 📧 Email: princevippassana@gmail.com  
+- 💼 LinkedIn: *(add your LinkedIn link here)*  
+- 🧑‍💻 GitHub: *(this profile)*  
 
 ---
 
-⭐ *“Learning never exhausts the mind.”*  
-
+⭐ *“Strong fundamentals build powerful intelligence.”*
