@@ -1,4 +1,4 @@
-<!-- GitHub Profile README -->
+<!-- ================== GitHub Profile README ================== -->
 
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 
@@ -8,7 +8,7 @@ Indian Institute of Technology, Patna 🇮🇳
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Undergraduate+@+IIT+Patna;Machine+Learning+%7C+Data+Science+%7C+Algorithms;Competitive+Programming+%7C+Applied+Mathematics;Always+Learning%2C+Always+Building">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Undergraduate+@+IIT+Patna;Machine+Learning+%7C+Data+Science+%7C+Algorithms;Competitive+Programming+%7C+Applied+Mathematics;Always+Learning%2C+Always+Building">
 </p>
 
 ---
@@ -16,13 +16,13 @@ Indian Institute of Technology, Patna 🇮🇳
 ## 👨‍🎓 About Me
 
 I am a **B.Tech undergraduate in Artificial Intelligence & Data Science at IIT Patna** with a strong foundation in **algorithms, machine learning, and applied mathematics**.  
-I enjoy solving **theoretically grounded problems** and converting them into **practical, efficient solutions**.
+I enjoy solving **theoretically grounded problems** and transforming them into **practical, efficient solutions**.
 
 - 🎓 **IIT Patna (2024 – 2028)** | CGPA: **7.38**
-- 💡 Interests: **Machine Learning, Data Science, AI, Algorithms**
-- 🧠 Strong inclination towards **problem-solving & mathematical reasoning**
-- 🚀 Actively improving **coding, ML, and system-level understanding**
-- 🤝 Involved in **leadership & student-driven initiatives**
+- 💡 Interests: **Machine Learning, Data Science, Artificial Intelligence**
+- 🧠 Strong focus on **problem-solving & mathematical reasoning**
+- 🚀 Continuously improving skills in **ML, DSA, and systems**
+- 🤝 Actively involved in **student leadership & initiatives**
 
 ---
 
@@ -64,14 +64,14 @@ I enjoy solving **theoretically grounded problems** and converting them into **p
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FE7A16?style=flat&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 
 ---
 
 ## 🏅 Achievements
 
 - 🥇 **State Rank 1**, Bihar Mathematics Olympiad (BMO 2021)
-- 📘 **Qualified IOQJS’21**, among top 10% students (State-wise)
+- 📘 **Qualified IOQJS’21**, ranked among top 10% students (State-wise)
 - 🧮 **Appeared for INMO 2020** (Indian National Mathematics Olympiad)
 
 ---
@@ -87,7 +87,7 @@ I enjoy solving **theoretically grounded problems** and converting them into **p
 
 - **Manager**, Entrepreneurship Cell, IIT Patna *(Apr 2025 – Present)*
 - **Executive**, Entrepreneurship Cell, IIT Patna *(Jan 2025 – Apr 2025)*
-- **Organising Committee Member**, Inter-IIT Cultural Meet 7.0 *(Dec 2024)*
+- **Member**, Organising Committee, Inter-IIT Cultural Meet 7.0 *(Dec 2024)*
 - **Core Team Member**, Syahi (Literary Club), IIT Patna *(Mar 2025 – Nov 2025)*
 
 ---
@@ -95,12 +95,12 @@ I enjoy solving **theoretically grounded problems** and converting them into **p
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Kumar-iitp&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Kumar-iitp&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Kumar-iitp&theme=tokyonight"/>
 </p>
 
 ---
@@ -114,10 +114,20 @@ I enjoy solving **theoretically grounded problems** and converting them into **p
 
 ## 🤝 Connect With Me
 
-- 📧 Email: princevippassana@gmail.com  
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
-- 🧑‍💻 GitHub: *(this profile)*  
+<p align="left">
+  <a href="https://www.linkedin.com/in/prince-kumar-iitp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Prince-Kumar-iitp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Prince--Kumar--iitp-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:princevippassana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-princevippassana%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ⭐ *“Strong fundamentals build powerful intelligence.”*
+
+<!-- =========================================================== -->
